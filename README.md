@@ -1,0 +1,2 @@
+# -Analisisde-precipitacion-en-la-region-del-Monzon-de-Norteamerica-NAM-servicio-social
+Creacion del codigo correspondiente para la lectura y procesamiento de datos climáticos. Estos son datos idezalizados de forzamiento de CO2 correspondientes al CESM1, se compararon con datos observacionales de precipitación de estaciones meteorológicas pertenecientes al GPCC y al GPCP, y con datos de simulaciones de HadGEM3-GC3.1-LL.
